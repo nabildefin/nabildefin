@@ -8,6 +8,13 @@ Saya mahasiswa di fakultas **MIPA** [Fakultas Matematika dan Ilmu Pengetahuan Al
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/nabildfinn/)ku ya.
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/nabildefin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **nabildefin/nabildefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
