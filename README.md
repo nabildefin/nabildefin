@@ -1,4 +1,12 @@
-## Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Nabil Defin Jatmiko**.<br>
+
+Saya seorang **Mahasiswa** di [Universitas Jenderal Soedirman](https://unsoed.ac.id/en/home/).<br>
+
+Saya mahasiswa di fakultas **MIPA** [Fakultas Matematika dan Ilmu Pengetahuan Alam](https://fmipa.unsoed.ac.id/profil/).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/nabildfinn/)ku ya.
 
 <!--
 **nabildefin/nabildefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
